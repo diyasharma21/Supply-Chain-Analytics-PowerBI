@@ -114,19 +114,19 @@ Due to GitHub file size limitations, the dataset is not included in this reposit
 
 ### Executive Dashboard
 
-![Executive Dashboard](assets/Executive dashboard.png)
+![Executive Dashboard](Images/Executive-Dashboard.png)
 
 ---
 
 ### Sales Analytics
 
-![Sales Analytics](assets/sales-analytics.png)
+![Sales Analytics](Images/Sales-Analytics.png)
 
 ---
 
 ### Geographic Analysis
 
-![Geographic Analysis](assets/geographic-analysis.png)
+![Geographic Analysis](Images/Geographic-Analysis.png)
 
 ---
 
